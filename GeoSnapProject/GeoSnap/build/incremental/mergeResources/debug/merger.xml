@@ -104,6 +104,11 @@
                     <!-- API 14 theme customizations can go here. -->
                 </style>
             </file>
+            <file
+                name="home"
+                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/home.xml"
+                qualifiers=""
+                type="layout" />
         </source>
         <source path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/rs/debug" />
     </dataSet>
