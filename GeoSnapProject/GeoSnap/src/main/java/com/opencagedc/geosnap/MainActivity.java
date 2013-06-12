@@ -91,8 +91,8 @@ public class MainActivity extends Activity {
         }
     }
 
-    public void startLoc(View view){
-        Intent intent = new Intent(ActivityA.this, ActivityB.class);
+    public void startGallery(View view){
+        Intent intent = new Intent(MainActivity.this, Gallery.class);
         startActivity(intent);
     }
 

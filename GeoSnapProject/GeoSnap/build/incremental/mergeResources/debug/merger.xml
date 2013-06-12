@@ -113,6 +113,11 @@
                 path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/home.xml"
                 qualifiers=""
                 type="layout" />
+            <file
+                name="gallery"
+                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/gallery.xml"
+                qualifiers=""
+                type="layout" />
         </source>
         <source path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/rs/debug" />
     </dataSet>
