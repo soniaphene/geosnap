@@ -1,18 +1,16 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
+1370924219000 352 df9b713609389c08ea0808b2ef44107885e19e4d /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/classes/release/com/opencagedc/geosnap/R$attr.class
+1371011517000 406 67ba55977b5a4b9d17486b64b6db9c5cd1a962eb /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/classes/release/com/opencagedc/geosnap/R$layout.class
+1371011517000 547 fc9e0aa8607c4383c3dfb48b84f5a5db195c9d46 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/classes/release/com/opencagedc/geosnap/R$string.class
+1371011517000 400 4c8f168951c0925e9c8212c642d86e78e2f1ccd3 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/classes/release/com/opencagedc/geosnap/R$menu.class
+1371012413000 3861 cda97c69d70579566c3b5b1b1343a7a2c7c9677b /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/classes/release/com/opencagedc/geosnap/MainActivity.class
+1370924219000 473 ec96705bdcb6bc149e01d73ccd5411eb0648acb3 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/classes/release/com/opencagedc/geosnap/R$dimen.class
 1370924219000 353 bc8087cd84007bb003553d6ee9265d2b3ad3d484 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/classes/release/com/opencagedc/geosnap/BuildConfig.class
 1371011517000 443 8cf6b6f88013e32f4e6f7da94f0f94127fe84a37 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/classes/release/com/opencagedc/geosnap/R$style.class
-1370989494000 289 2cf65c291db2ee4466ff4f7537f5853d2f39133e /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/classes/release/com/opencagedc/geosnap/Camera.class
+1371012413000 1333 ee2d15d2963058dd41f8918a115e3caa42bb9447 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/classes/release/com/opencagedc/geosnap/MainActivity$1.class
 1371011517000 717 714e7ce716535fa8c99b93cba2b41d11d0b7b6ff /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/classes/release/com/opencagedc/geosnap/R.class
 1370924219000 419 7b5719050974c1868946e3ecdc256bc329f65115 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/classes/release/com/opencagedc/geosnap/R$drawable.class
 1370924141000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/libs/android-support-v4.jar
 1371011517000 532 8a67ffdf0ec771c56869f73e388f7f3c46750c63 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/classes/release/com/opencagedc/geosnap/R$id.class
-1370924219000 352 df9b713609389c08ea0808b2ef44107885e19e4d /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/classes/release/com/opencagedc/geosnap/R$attr.class
-1371011517000 1422 e58303f2e61ba1c5b29014b2968442d4085c4137 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/classes/release/com/opencagedc/geosnap/MainActivity$2.class
-1371011517000 406 67ba55977b5a4b9d17486b64b6db9c5cd1a962eb /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/classes/release/com/opencagedc/geosnap/R$layout.class
-1371011517000 547 fc9e0aa8607c4383c3dfb48b84f5a5db195c9d46 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/classes/release/com/opencagedc/geosnap/R$string.class
-1371011517000 400 4c8f168951c0925e9c8212c642d86e78e2f1ccd3 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/classes/release/com/opencagedc/geosnap/R$menu.class
-1371011517000 4242 48ebdb6ebc104f2f09285eefae3369a4b3989a68 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/classes/release/com/opencagedc/geosnap/MainActivity.class
-1370924219000 473 ec96705bdcb6bc149e01d73ccd5411eb0648acb3 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/classes/release/com/opencagedc/geosnap/R$dimen.class
-1371011517000 1599 fe19e6424ac377d2012646a842ad9e04875cc21c /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/classes/release/com/opencagedc/geosnap/MainActivity$1.class

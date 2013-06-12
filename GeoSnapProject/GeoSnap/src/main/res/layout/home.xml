@@ -17,7 +17,7 @@
     <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="New Game"
+            android:text="Take picture"
             android:id="@+id/button"
             android:layout_gravity="center"
             android:singleLine="false"/>
@@ -25,12 +25,19 @@
     <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Help"
-            android:id="@+id/button2"
+            android:text="Guess The Location!"
+            android:id="@+id/gallery"
             android:layout_gravity="center"/>
 
     <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/image_view"/>
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Help"
+            android:id="@+id/button3"
+            android:layout_gravity="center"/>
 </LinearLayout>

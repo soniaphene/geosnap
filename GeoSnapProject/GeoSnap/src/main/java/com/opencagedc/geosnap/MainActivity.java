@@ -11,6 +11,7 @@ import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.ImageView;
 
 import java.io.File;
@@ -43,18 +44,9 @@ public class MainActivity extends Activity {
             intent.putExtra(MediaStore.EXTRA_OUTPUT, fileUri);
             startActivityForResult(intent, SNAP_IMAGE_REQUEST_CODE);
 
-            button.setOnClickListener(shareIt);
             //button.setText(R.string.share_it);
 
 
-        }
-    };
-    OnClickListener shareIt = new OnClickListener() {
-        public void onClick(View v) {
-            Intent shareIntent = new Intent(Intent.ACTION_SEND);
-            shareIntent.setType("image/jpeg");
-            shareIntent.putExtra(Intent.EXTRA_STREAM, fileUri);
-            startActivity(Intent.createChooser(shareIntent, "Share Image With"));
         }
     };
 
@@ -98,4 +90,10 @@ public class MainActivity extends Activity {
             }
         }
     }
+
+    public void startLoc(View view){
+        Intent intent = new Intent(ActivityA.this, ActivityB.class);
+        startActivity(intent);
+    }
+
 }
