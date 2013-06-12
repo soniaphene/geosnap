@@ -20,4 +20,11 @@
             android:id="@+id/button"
             android:layout_gravity="center"
             android:onClick="startScore"/>
+
+    <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/pathlocation"
+            android:layout_gravity="center"/>
+
 </LinearLayout>

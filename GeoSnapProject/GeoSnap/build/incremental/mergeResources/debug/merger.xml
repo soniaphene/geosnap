@@ -86,9 +86,9 @@
                 qualifiers="" >
                 <string name="guess" > Guess
                 </string>
-                <string name="gallery" > Gallery
-                </string>
                 <string name="share_it" >Share It
+                </string>
+                <string name="gallery" > Gallery
                 </string>
                 <string name="action_settings" >Settings
                 </string>

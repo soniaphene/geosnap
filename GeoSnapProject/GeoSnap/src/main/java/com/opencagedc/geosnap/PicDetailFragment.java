@@ -25,6 +25,7 @@ public class PicDetailFragment extends Fragment {
 	DummyContent.DummyItem mItem;
 
 	public PicDetailFragment() {
+
 	}
 
 	@Override
@@ -86,4 +87,9 @@ public class PicDetailFragment extends Fragment {
 
 		return rootView;
 	}
+
+    public String getLocationString() {
+        return mItem.content;
+    }
+
 }

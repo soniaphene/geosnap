@@ -8,7 +8,15 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.EditText;
 
+import java.io.File;
+import java.io.IOException;
+
 public class PicDetailActivity extends FragmentActivity {
+
+    public static final String ARG_ITEM_ID = "item_id";
+    private PicDetailFragment fragment;
+    public final static String path = "com.opencagedc.geosnap.PATH";
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,11 +29,15 @@ public class PicDetailActivity extends FragmentActivity {
             Bundle arguments = new Bundle();
             arguments.putString(PicDetailFragment.ARG_ITEM_ID,
                     getIntent().getStringExtra(PicDetailFragment.ARG_ITEM_ID));
-            PicDetailFragment fragment = new PicDetailFragment();
+            fragment = new PicDetailFragment();
             fragment.setArguments(arguments);
             getSupportFragmentManager().beginTransaction()
                     .add(R.id.pic_detail_container, fragment)
                     .commit();
+
+
+
+
         }
     }
 
@@ -41,14 +53,16 @@ public class PicDetailActivity extends FragmentActivity {
 
     //start the Guess screen
     public void startGuess(View view){
+
+        String location = fragment.getLocationString();
+        System.out.println(location);
+
         Intent intent = new Intent(PicDetailActivity.this, Guess.class);
 
-
-        //EditText editText = (EditText) findViewById(R.id.editText);
-        //String message = editText.getText().toString();
-        //intent.putExtra(EXTRA_MESSAGE, message);
+        intent.putExtra(path, location);
 
 
         startActivity(intent);
     }
 }
+
