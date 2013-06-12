@@ -8,4 +8,8 @@
     <string name="hello_world" >Hello world!
     </string>
 
+    <string name="snap_it">Snap It</string>
+    <string name="share_it">Share It</string>
+
+
 </resources>
