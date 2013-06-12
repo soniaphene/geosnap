@@ -44,11 +44,17 @@
             <file
                 path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/values/strings.xml"
                 qualifiers="" >
+                <string name="guess" > Guess Activity
+                </string>
+                <string name="gallery" > Gallery Activity
+                </string>
                 <string name="share_it" >Share It
                 </string>
                 <string name="action_settings" >Settings
                 </string>
                 <string name="app_name" >GeoSnap
+                </string>
+                <string name="score" > Score Activity
                 </string>
                 <string name="hello_world" >Hello world!
                 </string>
@@ -116,6 +122,16 @@
             <file
                 name="gallery"
                 path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/gallery.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="guess"
+                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/guess.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="score"
+                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/score.xml"
                 qualifiers=""
                 type="layout" />
         </source>

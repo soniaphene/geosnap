@@ -17,13 +17,29 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:label="Gallery" android:name="com.opencagedc.geosnap.Gallery">
+
+        <activity android:label="@string/gallery" android:name="com.opencagedc.geosnap.Gallery">
             <intent-filter>
                 <action android:name="android.intent.action.VIEW"/>
-
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
-    </application>
 
+        <activity android:label="@string/guess" android:name="com.opencagedc.geosnap.Guess">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:label="@string/score" android:name="com.opencagedc.geosnap.Score">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+
+
+    </application>
 </manifest>

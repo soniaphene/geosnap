@@ -5,12 +5,11 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.ImageView;
 
 /**
  * Created by demouser on 6/12/13.
  */
-public class Gallery extends Activity {
+public class Guess extends Activity {
 
     private Button button;
 
@@ -18,12 +17,13 @@ public class Gallery extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Intent intent = getIntent();
-        setContentView(R.layout.gallery);
+        setContentView(R.layout.guess);
+
     }
 
 
-    public void startGuess(View view){
-        Intent intent = new Intent(Gallery.this, Guess.class);
+    public void startScore(View view){
+        Intent intent = new Intent(Guess.this, Score.class);
         startActivity(intent);
     }
 

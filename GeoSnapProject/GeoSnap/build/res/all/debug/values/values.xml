@@ -6,7 +6,10 @@
 
     <string name="action_settings">Settings</string>
     <string name="app_name">GeoSnap</string>
+    <string name="gallery"> Gallery Activity</string>
+    <string name="guess"> Guess Activity</string>
     <string name="hello_world">Hello world!</string>
+    <string name="score"> Score Activity</string>
     <string name="share_it">Share It</string>
     <string name="snap_it">Snap It</string>
 
