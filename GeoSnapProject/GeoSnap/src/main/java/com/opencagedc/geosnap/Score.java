@@ -21,7 +21,10 @@ public class Score extends Activity {
 
     }
 
-
+    public void startGallery(View view){
+        Intent intent = new Intent(Score.this, Gallery.class);
+        startActivity(intent);
+    }
     public void startMainActivity(View view){
         Intent intent = new Intent(Score.this, MainActivity.class);
         startActivity(intent);

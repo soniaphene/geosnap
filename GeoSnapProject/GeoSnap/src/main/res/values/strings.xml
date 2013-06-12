@@ -11,9 +11,10 @@
     <string name="snap_it">Snap It</string>
     <string name="share_it">Share It</string>
 
-    <string name="gallery"> Gallery Activity</string>
-    <string name="guess"> Guess Activity</string>
-    <string name="score"> Score Activity</string>
+    <string name="gallery"> Gallery</string>
+    <string name="guess"> Guess</string>
+    <string name="score"> Score</string>
+    <string name="help"> Help</string>
 
 
 

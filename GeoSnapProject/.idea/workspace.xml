@@ -12,18 +12,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edc73d91-58be-40f4-82a8-5e695627d2bd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Guess.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Score.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GeoSnap/src/main/res/layout/guess.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GeoSnap/src/main/res/layout/score.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Help.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GeoSnap/src/main/res/layout/help.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/src.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/src1.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/GeoSnap/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Gallery.java" afterPath="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Gallery.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/GeoSnap.iml" afterPath="$PROJECT_DIR$/GeoSnap/GeoSnap.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnapProject.iml" afterPath="$PROJECT_DIR$/GeoSnapProject.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/MainActivity.java" afterPath="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/build/source/r/debug/com/opencagedc/geosnap/R.java" afterPath="$PROJECT_DIR$/GeoSnap/build/source/r/debug/com/opencagedc/geosnap/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/build/source/r/release/com/opencagedc/geosnap/R.java" afterPath="$PROJECT_DIR$/GeoSnap/build/source/r/release/com/opencagedc/geosnap/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/build/res/all/debug/layout/gallery.xml" afterPath="$PROJECT_DIR$/GeoSnap/build/res/all/debug/layout/gallery.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/build/res/all/release/layout/gallery.xml" afterPath="$PROJECT_DIR$/GeoSnap/build/res/all/release/layout/gallery.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/src/main/res/layout/gallery.xml" afterPath="$PROJECT_DIR$/GeoSnap/src/main/res/layout/gallery.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Score.java" afterPath="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Score.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/build/res/all/debug/layout/home.xml" afterPath="$PROJECT_DIR$/GeoSnap/build/res/all/debug/layout/home.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/build/res/all/release/layout/home.xml" afterPath="$PROJECT_DIR$/GeoSnap/build/res/all/release/layout/home.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/src/main/res/layout/home.xml" afterPath="$PROJECT_DIR$/GeoSnap/src/main/res/layout/home.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/build/res/all/debug/layout/score.xml" afterPath="$PROJECT_DIR$/GeoSnap/build/res/all/debug/layout/score.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/build/res/all/release/layout/score.xml" afterPath="$PROJECT_DIR$/GeoSnap/build/res/all/release/layout/score.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/src/main/res/layout/score.xml" afterPath="$PROJECT_DIR$/GeoSnap/src/main/res/layout/score.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/GeoSnap/src/main/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/build/res/all/debug/values/values.xml" afterPath="$PROJECT_DIR$/GeoSnap/build/res/all/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/build/res/all/release/values/values.xml" afterPath="$PROJECT_DIR$/GeoSnap/build/res/all/release/values/values.xml" />
@@ -97,16 +103,53 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="44" selection-start="1154" selection-end="1154" vertical-scroll-proportion="-7.3703704" vertical-offset="251" max-vertical-offset="735">
+            <state line="28" column="37" selection-start="1051" selection-end="1051" vertical-scroll-proportion="-15.555555" vertical-offset="0" max-vertical-offset="750">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/MainActivity.java">
+      <file leaf-file-name="Score.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Score.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="0" selection-start="2906" selection-end="2906" vertical-scroll-proportion="0.0" vertical-offset="732" max-vertical-offset="1290">
+            <state line="21" column="5" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="615">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Help.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Help.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="5" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="help.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/layout/help.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="13" selection-start="274" selection-end="274" vertical-scroll-proportion="0.27704486" vertical-offset="0" max-vertical-offset="420">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="score.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/layout/score.xml">
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state line="20" column="43" selection-start="794" selection-end="794" vertical-scroll-proportion="0.0" vertical-offset="116" max-vertical-offset="555">
               <folding />
             </state>
           </provider>
@@ -124,67 +167,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Guess.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Guess.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="30" selection-start="617" selection-end="617" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="555">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Score.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Score.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="39" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="570">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="guess.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/layout/guess.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="42" selection-start="846" selection-end="846" vertical-scroll-proportion="0.83113456" vertical-offset="0" max-vertical-offset="420">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="score.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/layout/score.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="851" selection-end="851" vertical-scroll-proportion="-12.222222" vertical-offset="0" max-vertical-offset="435">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gallery.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Gallery.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="41" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+            <state line="13" column="35" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
               <folding />
             </state>
           </provider>
@@ -193,7 +179,7 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="42" selection-start="1888" selection-end="1888" vertical-scroll-proportion="0.0" vertical-offset="464" max-vertical-offset="1035">
+            <state line="65" column="28" selection-start="2646" selection-end="2646" vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="1185">
               <folding>
                 <element signature="e#810#833#0" expanded="true" />
                 <element signature="e#856#874#0" expanded="true" />
@@ -201,7 +187,29 @@
                 <element signature="e#1380#1397#0" expanded="true" />
                 <element signature="e#1731#1746#0" expanded="true" />
                 <element signature="e#2080#2095#0" expanded="true" />
+                <element signature="e#2428#2442#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="help.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GeoSnap/build/res/all/debug/layout/help.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="0" selection-start="825" selection-end="825" vertical-scroll-proportion="0.0" vertical-offset="47" max-vertical-offset="420">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="guess.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/layout/guess.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="42" selection-start="846" selection-end="846" vertical-scroll-proportion="-11.666667" vertical-offset="0" max-vertical-offset="420">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -257,16 +265,18 @@
       <list>
         <option value="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Camera.java" />
         <option value="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/gallery.java" />
-        <option value="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/MainActivity.java" />
-        <option value="$PROJECT_DIR$/GeoSnap/src/main/res/layout/home.xml" />
         <option value="$PROJECT_DIR$/GeoSnap/src/main/res/layout/gallery.xml" />
         <option value="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Guess.java" />
-        <option value="$PROJECT_DIR$/GeoSnap/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/GeoSnap/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/GeoSnap/src/main/res/layout/score.xml" />
-        <option value="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Score.java" />
         <option value="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Gallery.java" />
         <option value="$PROJECT_DIR$/GeoSnap/src/main/res/layout/guess.xml" />
+        <option value="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/MainActivity.java" />
+        <option value="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Help.java" />
+        <option value="$PROJECT_DIR$/GeoSnap/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/GeoSnap/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/GeoSnap/src/main/res/layout/home.xml" />
+        <option value="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Score.java" />
+        <option value="$PROJECT_DIR$/GeoSnap/src/main/res/layout/score.xml" />
+        <option value="$PROJECT_DIR$/GeoSnap/src/main/res/layout/help.xml" />
       </list>
     </option>
   </component>
@@ -509,14 +519,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Lesson4Project" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libproject" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="015d3c2630480e08" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -752,37 +762,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="315">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="38" selection-start="1387" selection-end="1387" vertical-scroll-proportion="0.0" vertical-offset="222" max-vertical-offset="735">
-          <folding>
-            <element signature="e#810#833#0" expanded="true" />
-            <element signature="e#856#874#0" expanded="true" />
-            <element signature="e#1024#1042#0" expanded="true" />
-            <element signature="e#1380#1397#0" expanded="true" />
-            <element signature="e#1731#1746#0" expanded="true" />
-            <element signature="e#2080#2095#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/layout/home.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="19" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="405">
@@ -807,12 +786,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/layout/home.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Gallery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="44" selection-start="1154" selection-end="1154" vertical-scroll-proportion="-7.3703704" vertical-offset="251" max-vertical-offset="735">
+        <state line="20" column="41" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Guess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="257" selection-end="624" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="555">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="35" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="28" selection-start="2646" selection-end="2646" vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="1185">
+          <folding>
+            <element signature="e#810#833#0" expanded="true" />
+            <element signature="e#856#874#0" expanded="true" />
+            <element signature="e#1024#1042#0" expanded="true" />
+            <element signature="e#1380#1397#0" expanded="true" />
+            <element signature="e#1731#1746#0" expanded="true" />
+            <element signature="e#2080#2095#0" expanded="true" />
+            <element signature="e#2428#2442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Help.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="5" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeoSnap/build/res/all/debug/layout/help.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="825" selection-end="825" vertical-scroll-proportion="0.0" vertical-offset="47" max-vertical-offset="420">
           <folding />
         </state>
       </provider>
@@ -827,81 +852,150 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/layout/score.xml">
+    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/layout/guess.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="851" selection-end="851" vertical-scroll-proportion="-12.222222" vertical-offset="0" max-vertical-offset="435">
+        <state line="21" column="42" selection-start="846" selection-end="846" vertical-scroll-proportion="-11.666667" vertical-offset="0" max-vertical-offset="420">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="0" selection-start="2906" selection-end="2906" vertical-scroll-proportion="0.0" vertical-offset="732" max-vertical-offset="1290">
+        <state line="92" column="0" selection-start="2906" selection-end="3054" vertical-scroll-proportion="0.0" vertical-offset="882" max-vertical-offset="1350">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="42" selection-start="1888" selection-end="1888" vertical-scroll-proportion="0.0" vertical-offset="464" max-vertical-offset="1035">
-          <folding>
-            <element signature="e#810#833#0" expanded="true" />
-            <element signature="e#856#874#0" expanded="true" />
-            <element signature="e#1024#1042#0" expanded="true" />
-            <element signature="e#1380#1397#0" expanded="true" />
-            <element signature="e#1731#1746#0" expanded="true" />
-            <element signature="e#2080#2095#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Gallery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="41" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Guess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="30" selection-start="617" selection-end="617" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="555">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Score.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="39" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="570">
+        <state line="21" column="5" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="615">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/layout/guess.xml">
-      <provider editor-type-id="android-designer">
+    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/layout/score.xml">
+      <provider selected="true" editor-type-id="android-designer">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="42" selection-start="846" selection-end="846" vertical-scroll-proportion="0.83113456" vertical-offset="0" max-vertical-offset="420">
+      <provider editor-type-id="text-editor">
+        <state line="20" column="43" selection-start="794" selection-end="794" vertical-scroll-proportion="0.0" vertical-offset="116" max-vertical-offset="555">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/layout/home.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="37" selection-start="1051" selection-end="1051" vertical-scroll-proportion="-15.555555" vertical-offset="0" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/layout/help.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="274" selection-end="274" vertical-scroll-proportion="0.27704486" vertical-offset="0" max-vertical-offset="420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android SDK</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GeoSnap</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>src1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 

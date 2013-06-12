@@ -2,10 +2,11 @@
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
 1370924141000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/drawable-hdpi/ic_launcher.png
-1371061781000 867 ffa074008dc88c7a206306f516071db41beaeb7f /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/score.xml
+1371063375000 1128 f88e58dead7e09106094ed5058e1e69b7d01ff47 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/score.xml
+1371063436000 840 42e4338478d333b8fc610ff43ff1ce0f44e5fda6 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/help.xml
 1370924141000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/menu/main.xml
-1371060811000 1552 b57ab4586d00ee070cabb30108b5a250183774e2 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/home.xml
-1371061767000 483 01a0b4e26a7c02b4533d72c285a250e9de55cc6e /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/values/strings.xml
+1371063186000 1568 400650abff5bb343034c920d00ad3dedb16ca7d1 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/home.xml
+1371062789000 495 4e84037da9818f789dd8e54a50dac63ca6eef30a /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/values/strings.xml
 1371061932000 862 84a8de7ab1196fa1fa25f38c443054d5d18dbf91 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/guess.xml
 1370924141000 381 b129b276e01126de5b3b753572ac67cbfc19454c /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/values-v14/styles.xml
 1370924141000 181 84de2797380184d8b39af6f829afb092fb956173 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/values-sw600dp/dimens.xml

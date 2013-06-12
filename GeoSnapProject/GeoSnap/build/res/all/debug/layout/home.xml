@@ -15,7 +15,7 @@
             android:textSize="50dp"/>
 
     <Button
-            android:layout_width="wrap_content"
+            android:layout_width="382dp"
             android:layout_height="wrap_content"
             android:text="Take picture"
             android:id="@+id/button"
@@ -23,7 +23,7 @@
             android:singleLine="false"/>
 
     <Button
-            android:layout_width="wrap_content"
+            android:layout_width="382dp"
             android:layout_height="wrap_content"
             android:text="Guess The Location!"
             android:id="@+id/gallery"
@@ -36,9 +36,10 @@
             android:id="@+id/image_view"/>
 
     <Button
-            android:layout_width="wrap_content"
+            android:layout_width="382dp"
             android:layout_height="wrap_content"
             android:text="Help"
-            android:id="@+id/button3"
-            android:layout_gravity="center"/>
+            android:id="@+id/help"
+            android:layout_gravity="center"
+            android:onClick="startHelp"/>
 </LinearLayout>

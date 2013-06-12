@@ -96,4 +96,8 @@ public class MainActivity extends Activity {
         startActivity(intent);
     }
 
+    public void startHelp(View view){
+        Intent intent = new Intent(MainActivity.this, Help.class);
+        startActivity(intent);
+    }
 }

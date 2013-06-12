@@ -1,16 +1,17 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1371061502000 1029 6828f65fa541d20f3955abd6a919887daf0e2249 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/debug/values/values.xml
-1371060823000 1552 b57ab4586d00ee070cabb30108b5a250183774e2 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/debug/layout/home.xml
+1371063255000 1568 400650abff5bb343034c920d00ad3dedb16ca7d1 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/debug/layout/home.xml
 1370924207000 12356 75154d4f6e93c8832a74d3c27c8cf0d44672ea3e /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/debug/drawable-xhdpi/ic_launcher.png
 1370924207000 125 fae9d1b71d520745438010c9ca7cde9c81dfefac /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/debug/values-sw720dp-land/values.xml
 1370924207000 3760 9d45e7de00dac30e9738dc369dece2835bf9677e /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1371063442000 840 42e4338478d333b8fc610ff43ff1ce0f44e5fda6 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/debug/layout/help.xml
+1370924207000 217 f02e000d05a079992d2dba18039216c1e6b8784f /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/debug/values-v14/values.xml
+1371063382000 1128 f88e58dead7e09106094ed5058e1e69b7d01ff47 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/debug/layout/score.xml
+1370924207000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1371061939000 862 84a8de7ab1196fa1fa25f38c443054d5d18dbf91 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/debug/layout/guess.xml
+1371062803000 1041 12449784091b43b30a45309e7b1c304586393234 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/debug/values/values.xml
 1370924207000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/debug/values-v11/values.xml
 1371061502000 911 8300b567b3a43cef548ccda2f7d9245b2ea3fc17 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/debug/layout/gallery.xml
 1370924207000 24780 6c2954bdacb8129ac00edfd084b98daf226518e3 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
-1370924207000 217 f02e000d05a079992d2dba18039216c1e6b8784f /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/debug/values-v14/values.xml
-1371061789000 867 ffa074008dc88c7a206306f516071db41beaeb7f /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/debug/layout/score.xml
-1370924207000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/debug/drawable-hdpi/ic_launcher.png
 1370924207000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/debug/menu/main.xml
-1371061939000 862 84a8de7ab1196fa1fa25f38c443054d5d18dbf91 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/debug/layout/guess.xml
