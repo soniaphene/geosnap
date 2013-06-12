@@ -48,6 +48,18 @@
 
 
 
+        <activity android:label="Pics" android:name="com.opencagedc.geosnap.PicListActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:label="Pics Detail" android:name="com.opencagedc.geosnap.PicDetailActivity">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".PicListActivity"/>
+        </activity>
+
 
     </application>
 </manifest>

@@ -141,6 +141,26 @@
                 path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/help.xml"
                 qualifiers=""
                 type="layout" />
+            <file
+                name="activity_pic_detail"
+                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/activity_pic_detail.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_pic_twopane"
+                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/activity_pic_twopane.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_pic_list"
+                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/activity_pic_list.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_pic_detail"
+                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/fragment_pic_detail.xml"
+                qualifiers=""
+                type="layout" />
         </source>
         <source path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/rs/release" />
     </dataSet>

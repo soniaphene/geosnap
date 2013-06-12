@@ -1,20 +1,24 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1370924141000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/drawable-hdpi/ic_launcher.png
 1371063375000 1128 f88e58dead7e09106094ed5058e1e69b7d01ff47 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/score.xml
-1371063436000 840 42e4338478d333b8fc610ff43ff1ce0f44e5fda6 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/help.xml
+1370924141000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/drawable-hdpi/ic_launcher.png
 1370924141000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/menu/main.xml
+1371063436000 840 42e4338478d333b8fc610ff43ff1ce0f44e5fda6 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/help.xml
 1371063186000 1568 400650abff5bb343034c920d00ad3dedb16ca7d1 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/home.xml
 1371062789000 495 4e84037da9818f789dd8e54a50dac63ca6eef30a /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/values/strings.xml
 1371061932000 862 84a8de7ab1196fa1fa25f38c443054d5d18dbf91 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/guess.xml
 1370924141000 381 b129b276e01126de5b3b753572ac67cbfc19454c /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/values-v14/styles.xml
 1370924141000 181 84de2797380184d8b39af6f829afb092fb956173 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/values-sw600dp/dimens.xml
+1371069670000 608 83c84c4e08d6e090bcb68cfbe6ea304ef8e1de04 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/activity_pic_detail.xml
 1370924141000 12356 75154d4f6e93c8832a74d3c27c8cf0d44672ea3e /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/drawable-xhdpi/ic_launcher.png
+1371065342000 856 3f717ea321efcc8eb30027f6a17c74cf26f6b56f /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/activity_pic_twopane.xml
 1371061266000 911 8300b567b3a43cef548ccda2f7d9245b2ea3fc17 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/gallery.xml
 1370924141000 24780 6c2954bdacb8129ac00edfd084b98daf226518e3 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/drawable-xxhdpi/ic_launcher.png
 1370924141000 3760 9d45e7de00dac30e9738dc369dece2835bf9677e /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/drawable-mdpi/ic_launcher.png
 1370924141000 254 25b6404e44acb50c82590049639d4fb5fefbac8e /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/values-sw720dp-land/dimens.xml
 1370924141000 324 aa1f5f1723de9aee2669dc44a26fbc0ce776d35f /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/values-v11/styles.xml
-1370924141000 680 c76f4caaa7a8dfe9727fa93001b3aee3b22d6716 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/values/styles.xml
+1371071402000 680 c76f4caaa7a8dfe9727fa93001b3aee3b22d6716 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/values/styles.xml
+1371064985000 405 70a7ce26604ae0c1cc651e676a21afe5c4d32f63 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/activity_pic_list.xml
+1366048044000 770 f5557483e7c96a564f8d83c15fec86006a2478d0 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/fragment_pic_detail.xml
 1370924141000 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f /Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/values/dimens.xml

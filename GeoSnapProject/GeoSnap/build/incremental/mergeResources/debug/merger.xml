@@ -24,8 +24,48 @@
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
-                name="activity_main"
-                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/activity_main.xml"
+                name="activity_pic_detail"
+                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/activity_pic_detail.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_pic_list"
+                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/activity_pic_list.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_pic_twopane"
+                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/activity_pic_twopane.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_pic_detail"
+                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/fragment_pic_detail.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="gallery"
+                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/gallery.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="guess"
+                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/guess.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="help"
+                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/help.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="home"
+                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/home.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="score"
+                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/score.xml"
                 qualifiers=""
                 type="layout" />
             <file
@@ -116,31 +156,6 @@
                     <!-- API 14 theme customizations can go here. -->
                 </style>
             </file>
-            <file
-                name="home"
-                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/home.xml"
-                qualifiers=""
-                type="layout" />
-            <file
-                name="gallery"
-                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/gallery.xml"
-                qualifiers=""
-                type="layout" />
-            <file
-                name="guess"
-                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/guess.xml"
-                qualifiers=""
-                type="layout" />
-            <file
-                name="score"
-                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/score.xml"
-                qualifiers=""
-                type="layout" />
-            <file
-                name="help"
-                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/help.xml"
-                qualifiers=""
-                type="layout" />
         </source>
         <source path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/rs/debug" />
     </dataSet>

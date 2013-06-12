@@ -19,6 +19,9 @@ public class Gallery extends Activity {
         super.onCreate(savedInstanceState);
         Intent intent = getIntent();
         setContentView(R.layout.gallery);
+
+        Intent galintent = new Intent(Gallery.this, PicListActivity.class);
+        startActivity(galintent);
     }
 
 
@@ -26,6 +29,8 @@ public class Gallery extends Activity {
         Intent intent = new Intent(Gallery.this, Guess.class);
         startActivity(intent);
     }
+
+
 
 
 }
