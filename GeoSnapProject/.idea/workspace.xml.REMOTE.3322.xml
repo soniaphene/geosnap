@@ -15,14 +15,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edc73d91-58be-40f4-82a8-5e695627d2bd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GeoSnap/src/main/res/drawable/ocbghome.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/MainActivity.java" afterPath="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Guess.java" afterPath="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Guess.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/PicDetailActivity.java" afterPath="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/PicDetailActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/PicDetailFragment.java" afterPath="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/PicDetailFragment.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/build/source/r/debug/com/opencagedc/geosnap/R.java" afterPath="$PROJECT_DIR$/GeoSnap/build/source/r/debug/com/opencagedc/geosnap/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/build/source/r/release/com/opencagedc/geosnap/R.java" afterPath="$PROJECT_DIR$/GeoSnap/build/source/r/release/com/opencagedc/geosnap/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/build/res/all/debug/layout/home.xml" afterPath="$PROJECT_DIR$/GeoSnap/build/res/all/debug/layout/home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/build/res/all/release/layout/home.xml" afterPath="$PROJECT_DIR$/GeoSnap/build/res/all/release/layout/home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/src/main/res/layout/home.xml" afterPath="$PROJECT_DIR$/GeoSnap/src/main/res/layout/home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/build/res/all/debug/layout/guess.xml" afterPath="$PROJECT_DIR$/GeoSnap/build/res/all/debug/layout/guess.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/build/res/all/release/layout/guess.xml" afterPath="$PROJECT_DIR$/GeoSnap/build/res/all/release/layout/guess.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeoSnap/src/main/res/layout/guess.xml" afterPath="$PROJECT_DIR$/GeoSnap/src/main/res/layout/guess.xml" />
     </list>
     <ignored path="GeoSnap.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,7 +40,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -77,6 +76,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -86,10 +86,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="PicListActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/PicListActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="63" selection-start="1055" selection-end="1055" vertical-scroll-proportion="0.0" vertical-offset="311" max-vertical-offset="780">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="26" selection-start="719" selection-end="719" vertical-scroll-proportion="0.3053435" vertical-offset="0" max-vertical-offset="1350">
+            <state line="21" column="13" selection-start="553" selection-end="553" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1350">
               <folding />
             </state>
           </provider>
@@ -98,8 +109,21 @@
       <file leaf-file-name="PicDetailFragment.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/PicDetailFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="56" selection-start="2230" selection-end="2230" vertical-scroll-proportion="0.0" vertical-offset="835" max-vertical-offset="1290">
-              <folding />
+            <state line="84" column="45" selection-start="2472" selection-end="2472" vertical-scroll-proportion="-7.1153846" vertical-offset="1075" max-vertical-offset="1515">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DummyContent.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/DummyContent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="63" column="0" selection-start="1668" selection-end="1668" vertical-scroll-proportion="-6.923077" vertical-offset="765" max-vertical-offset="1275">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -113,11 +137,24 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="PicListFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/PicListFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="80" column="0" selection-start="2418" selection-end="2418" vertical-scroll-proportion="0.0" vertical-offset="869" max-vertical-offset="1545">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="PicDetailActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/PicDetailActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="55" selection-start="768" selection-end="768" vertical-scroll-proportion="0.0" vertical-offset="509" max-vertical-offset="975">
-              <folding />
+            <state line="61" column="8" selection-start="1813" selection-end="1813" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="1110">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -126,15 +163,6 @@
         <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Gallery.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="27" column="30" selection-start="664" selection-end="664" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="630">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Guess.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Guess.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="695" selection-end="695" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -142,14 +170,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/layout/home.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
+      <file leaf-file-name="Guess.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Guess.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="47" selection-start="376" selection-end="376" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="885">
-              <folding />
+            <state line="20" column="36" selection-start="470" selection-end="470" vertical-scroll-proportion="0.609375" vertical-offset="66" max-vertical-offset="705">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -160,7 +187,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="47" selection-start="909" selection-end="909" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="525">
+            <state line="24" column="47" selection-start="909" selection-end="909" vertical-scroll-proportion="-7.2222223" vertical-offset="165" max-vertical-offset="525">
               <folding />
             </state>
           </provider>
@@ -215,6 +242,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/GeoSnap/src/main/res/layout/score.xml" />
         <option value="$PROJECT_DIR$/GeoSnap/src/main/res/layout/help.xml" />
         <option value="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/PicListActivity.java" />
         <option value="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/PicListFragment.java" />
@@ -222,6 +250,7 @@
         <option value="$PROJECT_DIR$/GeoSnap/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/GeoSnap/src/main/res/layout/activity_pic_list.xml" />
         <option value="$PROJECT_DIR$/GeoSnap/src/main/res/layout/activity_pic_twopane.xml" />
+        <option value="$PROJECT_DIR$/GeoSnap/src/main/res/layout/home.xml" />
         <option value="$PROJECT_DIR$/GeoSnap/src/main/res/layout/activity_pic_detail.xml" />
         <option value="$PROJECT_DIR$/GeoSnap/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/DummyContent.java" />
@@ -229,13 +258,11 @@
         <option value="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/PicDetailActivity.java" />
         <option value="$PROJECT_DIR$/GeoSnap/src/main/res/layout/guess.xml" />
         <option value="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Guess.java" />
-        <option value="$PROJECT_DIR$/GeoSnap/src/main/res/layout/home.xml" />
-        <option value="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/MainActivity.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-3" />
+    <option name="x" value="-2" />
     <option name="y" value="22" />
     <option name="width" value="1280" />
     <option name="height" value="718" />
@@ -266,7 +293,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -459,36 +485,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GeoSnap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GeoSnapProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GeoSnap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -600,6 +596,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -617,11 +614,11 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="emNexus7" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -631,29 +628,8 @@
       <recent name="$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap" />
       <recent name="$PROJECT_DIR$/GeoSnap/src/main/res/layout" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/GeoSnap/src/main/res/drawable" />
-    </key>
   </component>
   <component name="RunManager" selected="Android Application.GeoSnap">
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <method />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -787,13 +763,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="22" width="1280" height="718" extended-state="6" />
+    <frame x="-2" y="22" width="1280" height="718" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12094156" sideWeight="0.6705686" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12094156" sideWeight="0.68896323" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
@@ -801,14 +777,14 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943144" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943144" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3110368" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2560778" sideWeight="0.72575253" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2742475" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2560778" sideWeight="0.68896323" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2742475" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -878,49 +854,29 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/values/styles.xml">
+    <entry file="file://$PROJECT_DIR$/GeoSnap/build/source/r/debug/com/opencagedc/geosnap/R.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+        <state line="9" column="19" selection-start="234" selection-end="234" vertical-scroll-proportion="-0.44334975" vertical-offset="240" max-vertical-offset="1170">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/PicDetailActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="8" selection-start="1813" selection-end="1813" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="1110">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Gallery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="30" selection-start="664" selection-end="664" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="630">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Guess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="36" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="705">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/layout/guess.xml">
+    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/layout/activity_pic_detail.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="47" selection-start="909" selection-end="909" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="525">
+        <state line="6" column="0" selection-start="287" selection-end="287" vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="375">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GeoSnap/build/source/r/debug/com/opencagedc/geosnap/R.java">
+    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/layout/fragment_pic_detail.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="19" selection-start="234" selection-end="234" vertical-scroll-proportion="-0.44334975" vertical-offset="240" max-vertical-offset="1170">
+        <state line="8" column="36" selection-start="338" selection-end="338" vertical-scroll-proportion="-4.4444447" vertical-offset="0" max-vertical-offset="420">
           <folding />
         </state>
       </provider>
@@ -939,6 +895,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/layout/activity_pic_list.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="41" selection-start="161" selection-end="161" vertical-scroll-proportion="-1.1111112" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
@@ -946,10 +912,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/DummyContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="0" selection-start="1668" selection-end="1668" vertical-scroll-proportion="-6.923077" vertical-offset="765" max-vertical-offset="1275">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/PicListFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="0" selection-start="2418" selection-end="2418" vertical-scroll-proportion="0.0" vertical-offset="869" max-vertical-offset="1545">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/PicListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="63" selection-start="1055" selection-end="1055" vertical-scroll-proportion="0.0" vertical-offset="311" max-vertical-offset="780">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/PicDetailFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="45" selection-start="2472" selection-end="2472" vertical-scroll-proportion="-7.1153846" vertical-offset="1075" max-vertical-offset="1515">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/PicDetailActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="8" selection-start="1813" selection-end="1813" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="1110">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Gallery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="30" selection-start="664" selection-end="664" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="630">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -958,48 +971,24 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="47" selection-start="909" selection-end="909" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="525">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/PicDetailFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="56" selection-start="2230" selection-end="2230" vertical-scroll-proportion="0.0" vertical-offset="835" max-vertical-offset="1290">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/PicDetailActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="55" selection-start="768" selection-end="768" vertical-scroll-proportion="0.0" vertical-offset="509" max-vertical-offset="975">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Guess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="695" selection-end="695" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/res/layout/home.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="47" selection-start="376" selection-end="376" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="885">
+        <state line="24" column="47" selection-start="909" selection-end="909" vertical-scroll-proportion="-7.2222223" vertical-offset="165" max-vertical-offset="525">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="26" selection-start="719" selection-end="719" vertical-scroll-proportion="0.3053435" vertical-offset="0" max-vertical-offset="1350">
+        <state line="21" column="13" selection-start="553" selection-end="553" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1350">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeoSnap/src/main/java/com/opencagedc/geosnap/Guess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="36" selection-start="470" selection-end="470" vertical-scroll-proportion="0.609375" vertical-offset="66" max-vertical-offset="705">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

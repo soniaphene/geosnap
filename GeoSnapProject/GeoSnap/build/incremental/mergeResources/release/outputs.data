@@ -2,9 +2,10 @@
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
 1370924219000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/release/drawable-hdpi/ic_launcher.png
-1371063257000 1568 400650abff5bb343034c920d00ad3dedb16ca7d1 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/release/layout/home.xml
+1371081189000 1918 9a754c6e518496a0dc19d64220290616568d19bd /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/release/layout/home.xml
 1371064831000 770 f5557483e7c96a564f8d83c15fec86006a2478d0 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/release/layout/fragment_pic_detail.xml
 1371077554000 1064 1547ea6062f994140e83c6fbb08c7720ab3a52d3 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/release/layout/guess.xml
+1371081189000 106094 82e2f79b52001bc018d6c76aa3345bd478f279ec /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/release/drawable/ocbghome.jpg
 1370924219000 12356 75154d4f6e93c8832a74d3c27c8cf0d44672ea3e /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/release/drawable-xhdpi/ic_launcher.png
 1370924219000 24780 6c2954bdacb8129ac00edfd084b98daf226518e3 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/release/drawable-xxhdpi/ic_launcher.png
 1371064998000 405 70a7ce26604ae0c1cc651e676a21afe5c4d32f63 /Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/all/release/layout/activity_pic_list.xml

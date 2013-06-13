@@ -86,9 +86,9 @@
                 qualifiers="" >
                 <string name="guess" > Guess
                 </string>
-                <string name="share_it" >Share It
-                </string>
                 <string name="gallery" > Gallery
+                </string>
+                <string name="share_it" >Share It
                 </string>
                 <string name="action_settings" >Settings
                 </string>
@@ -156,6 +156,11 @@
                     <!-- API 14 theme customizations can go here. -->
                 </style>
             </file>
+            <file
+                name="ocbghome"
+                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/drawable/ocbghome.jpg"
+                qualifiers=""
+                type="drawable" />
         </source>
         <source path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/rs/debug" />
     </dataSet>

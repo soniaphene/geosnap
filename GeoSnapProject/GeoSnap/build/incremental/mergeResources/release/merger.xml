@@ -46,9 +46,9 @@
                 qualifiers="" >
                 <string name="guess" > Guess
                 </string>
-                <string name="share_it" >Share It
-                </string>
                 <string name="gallery" > Gallery
+                </string>
+                <string name="share_it" >Share It
                 </string>
                 <string name="action_settings" >Settings
                 </string>
@@ -161,6 +161,11 @@
                 path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/layout/fragment_pic_detail.xml"
                 qualifiers=""
                 type="layout" />
+            <file
+                name="ocbghome"
+                path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/src/main/res/drawable/ocbghome.jpg"
+                qualifiers=""
+                type="drawable" />
         </source>
         <source path="/Users/demouser/geosnap/GeoSnapProject/GeoSnap/build/res/rs/release" />
     </dataSet>

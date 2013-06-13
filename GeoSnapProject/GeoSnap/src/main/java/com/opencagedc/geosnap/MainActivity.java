@@ -33,7 +33,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.home);
         button = (Button) findViewById(R.id.button);
         button.setOnClickListener(snapIt);
-        imageView = (ImageView) findViewById(R.id.image_view);
+        //imageView = (ImageView) findViewById(R.id.image_view);
     }
 
     OnClickListener snapIt = new OnClickListener() {
