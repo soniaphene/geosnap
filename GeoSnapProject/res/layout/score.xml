@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Score Activity"
+            android:id="@+id/textview"
+            android:layout_gravity="center"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Distance"
+            android:id="@+id/distance"
+            android:layout_gravity="center"/>
+
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Back to Home"
+            android:id="@+id/button"
+            android:layout_gravity="center"
+            android:onClick="startMainActivity"/>
+
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/scoremap"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:name="com.google.android.gms.maps.SupportMapFragment"/>
+
+</LinearLayout>
