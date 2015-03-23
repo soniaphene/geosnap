@@ -1,0 +1,1 @@
+It's basically Geoguessr and Snapchat combined. Cool idea, bro!
